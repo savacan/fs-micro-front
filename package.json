@@ -1,0 +1,8 @@
+{
+  "name": "micro-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "y.yamanaka <y.yamanaka@mosa-architect.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
